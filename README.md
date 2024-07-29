@@ -1,0 +1,1 @@
+A small trivia game with a cat that asks you questions. You can do the questions in whichever order until you get them all right. Finally you are congratulated by a dancing bear will dance based on your rating out of 10.
